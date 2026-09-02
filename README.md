@@ -4,4 +4,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 [2026 Det Digitale Samarbejdsudvalg_Guide til dialoger.pdf](https://yzgtprm2gc-netizen.github.io/digitalelinks.github.io/2026%20Det%20Digitale%20Samarbejdsudvalg_Guide%20til%20dialoger.pdf)
 
-[Link til medierådets guide ift skærmbegrænsning Iphone/Ipad] (https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
+### Skærmbegrænsning på telefoner og tablets
+
+- [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
+- [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
