@@ -4,8 +4,10 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 ### Viden og værktøjer 
 [2026 Det Digitale Samarbejdsudvalg_Guide til dialoger.pdf](https://yzgtprm2gc-netizen.github.io/digitalelinks.github.io/2026%20Det%20Digitale%20Samarbejdsudvalg_Guide%20til%20dialoger.pdf)
+
 [Genvej - til dit barns digitale liv](https://genvej.org/)
 [Børns Vilkår.dk/skærmguiden](https://bornsvilkar.dk/skaermguiden/)
+
 [Redskab til forældremøder (Vores Fagunivers/Børns Vilkår](https://fagunivers.bornsvilkar.dk/digitalt-foraeldremoederedskab/)
 
 ### Skærmbegrænsning på telefoner og tablets
