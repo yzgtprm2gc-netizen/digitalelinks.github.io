@@ -8,10 +8,23 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 [Genvej - til dit barns digitale liv](https://genvej.org/)
 [Børns Vilkår.dk/skærmguiden](https://bornsvilkar.dk/skaermguiden/)
 
-[Redskab til forældremøder (Vores Fagunivers/Børns Vilkår](https://fagunivers.bornsvilkar.dk/digitalt-foraeldremoederedskab/)
+[Redskab til forældremøder (Vores Fagunivers/Børns Vilkår)](https://fagunivers.bornsvilkar.dk/digitalt-foraeldremoederedskab/)
+
+[Basiskort - et fysisk Rejsekort](https://www.basiskort.dk/da-dk)
+
+### Digital dannelse
+[Børns Vilkårs Fagunivers](https://fagunivers.bornsvilkar.dk/)
+(https://fagunivers.bornsvilkar.dk/vores-ydelser/?fagunivers_type=materialer&maalgruppe=skoleboern)
+
+
+### Rapporter
+[Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
 
 ### Skærmbegrænsning på telefoner og tablets
 
 - [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
 - [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
+- [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
+- [Lightphone - et alternativ](https://www.thelightphone.com/)
+- [Oase - et gruppechat alternativ fri for reklamer og algoritmer](https://oase.app)
 
