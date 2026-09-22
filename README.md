@@ -24,7 +24,6 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 ### Skærmbegrænsning på telefoner og tablets
 - [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
 - [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
-- [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
 - [Lightphone - et alternativ](https://www.thelightphone.com/)
 - [Oase - et gruppechat alternativ fri for reklamer og algoritmer](https://oase.app)
 
