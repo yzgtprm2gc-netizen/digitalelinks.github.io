@@ -14,14 +14,14 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 ### Digital dannelse
 [Børns Vilkårs Fagunivers](https://fagunivers.bornsvilkar.dk/)
-(https://fagunivers.bornsvilkar.dk/vores-ydelser/?fagunivers_type=materialer&maalgruppe=skoleboern)
+
+[Børns Vilkårs Fagunivers - materialearkiv](https://fagunivers.bornsvilkar.dk/vores-ydelser/?fagunivers_type=materialer&maalgruppe=skoleboern)
 
 
 ### Rapporter
 [Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
 
 ### Skærmbegrænsning på telefoner og tablets
-
 - [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
 - [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
 - [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
