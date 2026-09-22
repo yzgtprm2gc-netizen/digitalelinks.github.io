@@ -2,9 +2,14 @@
 
 Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af links og materiale til forældre, der vil tage en god snak om børns og unges digitale vaner — uden stress. Brug siden som et hurtigt opslagsværk til samtaleidéer, nemme guides og nyttige ressourcer.
 
+### Viden og værktøjer 
 [2026 Det Digitale Samarbejdsudvalg_Guide til dialoger.pdf](https://yzgtprm2gc-netizen.github.io/digitalelinks.github.io/2026%20Det%20Digitale%20Samarbejdsudvalg_Guide%20til%20dialoger.pdf)
+[Genvej - til dit barns digitale liv](https://genvej.org/)
+[Børns Vilkår.dk/skærmguiden](https://bornsvilkar.dk/skaermguiden/)
+[Redskab til forældremøder (Vores Fagunivers/Børns Vilkår](https://fagunivers.bornsvilkar.dk/digitalt-foraeldremoederedskab/)
 
 ### Skærmbegrænsning på telefoner og tablets
 
 - [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
 - [Medierådets guide til skærmbegrænsning på Android-enheder](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-android-enheder)
+
