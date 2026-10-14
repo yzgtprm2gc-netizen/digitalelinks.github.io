@@ -25,7 +25,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 [Eksempel 0. kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/blob/main/Eksempel%20-%20Sk%C3%A6rmregler%20for%200.C.jpg)
 
 ### Rapporter
-[Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
+[Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/blob/main/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
 
 ### Skærmbegrænsning på telefoner og tablets
 - [Medierådets guide til skærmbegrænsning på iPhone og iPad](https://medieraadet.dk/foraeldreguides/den-rette-indstilling/foraeldreindstillinger-paa-iphone-og-ipad)
