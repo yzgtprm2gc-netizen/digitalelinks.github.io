@@ -1,6 +1,3 @@
-# Eksempler på skriv til forældre i klassen
-
-
 # Digitale Links — Materiale til forældre
 
 Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af links og materiale til forældre, der vil tage en god snak om børns og unges digitale vaner — uden stress. Brug siden som et hurtigt opslagsværk til samtaleidéer, nemme guides og nyttige ressourcer.
@@ -20,6 +17,8 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 [Børns Vilkårs Fagunivers - materialearkiv](https://fagunivers.bornsvilkar.dk/vores-ydelser/?fagunivers_type=materialer&maalgruppe=skoleboern)
 
+### Eksempler på skriv til forældre i klassen
+(https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/edit/main/README.md#:~:text=digital%20adf%C3%A6rd%20aftale-,.,-docx)
 
 ### Rapporter
 [Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
