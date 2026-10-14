@@ -20,6 +20,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 ### Eksempler på skriv til forældre i klassen
 [Eksempel 3.kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/edit/main/README.md#:~:text=digital%20adf%C3%A6rd%20aftale-,.,-docx)
 
+
 ### Rapporter
 [Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
 
