@@ -22,7 +22,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 [Eksempel 1. kl](klasse_aftale.pdf)
 
-[Eksempel 0. kl](Eksempel - Skærmregler for 0.C.jpg)
+[Eksempel 0. kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/edit/main/Eksempel%20-%20Sk%C3%A6rmregler%20for%200.C.jpg))
 
 
 ### Rapporter
