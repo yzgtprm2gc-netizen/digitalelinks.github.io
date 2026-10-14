@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document Preview</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f5f7fb;
+        color: #222;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 24px auto;
+        padding: 0 16px 32px;
+      }
+      h1 {
+        margin-bottom: 16px;
+      }
+      .viewer {
+        width: 100%;
+        height: 760px;
+        border: 1px solid #dfe4ea;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      }
+      .download {
+        display: inline-block;
+        margin-top: 16px;
+        padding: 10px 16px;
+        background: #0b57d0;
+        color: white;
+        text-decoration: none;
+        border-radius: 6px;
+      }
+      .download:hover {
+        background: #0a4bb4;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Document Preview</h1>
+
+      <script>
+        const rawUrl = "https://raw.githubusercontent.com/yzgtprm2gc-netizen/digitalelinks.github.io/main/digital%20adf%C3%A6rd%20aftale.docx";
+        const officeViewer = "https://view.officeapps.live.com/op/embed.aspx?src=" + encodeURIComponent(rawUrl);
+        document.write('<iframe class="viewer" src="' + officeViewer + '" frameborder="0" allowfullscreen></iframe>');
+      </script>
+
+      <p>
+        <a class="download" href="https://raw.githubusercontent.com/yzgtprm2gc-netizen/digitalelinks.github.io/main/digital%20adf%C3%A6rd%20aftale.docx" target="_blank" rel="noopener noreferrer">
+          Download original .docx
+        </a>
+      </p>
+    </div>
+  </body>
+</html>
