@@ -20,7 +20,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 ### Eksempler på skriv til forældre i klassen
 [Eksempel 3. kl - tryk på "raw" for at hente dokumentet i word](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/blob/main/digital%20adf%C3%A6rd%20aftale.docx#:~:text=Raw-,View%20raw)
 
-[Eksempel 1. kl - tryk på "raw" for at hente dokumentet](klasse_aftale.pdf)
+[Eksempel 1. kl](klasse_aftale.pdf)
 
 
 ### Rapporter
