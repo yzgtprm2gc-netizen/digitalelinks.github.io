@@ -22,8 +22,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 [Eksempel 1. kl](klasse_aftale.pdf)
 
-[Eksempel 0. kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/tree/main#:~:text=Eksempel%20%2D%20Sk%C3%A6rmregler%20for%200.C.jpg)
-
+[Eksempel 0. kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/blob/main/Eksempel%20-%20Sk%C3%A6rmregler%20for%200.C.jpg)
 
 ### Rapporter
 [Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
