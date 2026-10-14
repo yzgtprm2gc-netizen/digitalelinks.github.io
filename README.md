@@ -18,7 +18,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 [Børns Vilkårs Fagunivers - materialearkiv](https://fagunivers.bornsvilkar.dk/vores-ydelser/?fagunivers_type=materialer&maalgruppe=skoleboern)
 
 ### Eksempler på skriv til forældre i klassen
-[Eksempel 3.kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/edit/main/README.md#:~:text=digital%20adf%C3%A6rd%20aftale-,.,-docx)
+[Eksempel 3.kl](https://github.com/yzgtprm2gc-netizen/digitalelinks.github.io/blob/main/digital%20adf%C3%A6rd%20aftale.docx#:~:text=Raw-,View%20raw))
 
 
 ### Rapporter
