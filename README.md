@@ -22,6 +22,7 @@ Det digitale Samarbejdsudvalg på Gammelgårdsskolen har lavet denne samling af 
 
 [Eksempel 1. kl](klasse_aftale.pdf)
 
+[Eksempel 0. kl](klasse_aftale.pdf)
 
 ### Rapporter
 [Børns Vilkår og Trygfondens rapport om børns digitale fællesskaber 2022](https://fagunivers.bornsvilkar.dk/wp-content/uploads/2025/08/Boerns-Vilkaar-og-TrygFonden-Boerns-Digitale-Faellesskaber-FINAL.pdf)
